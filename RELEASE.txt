@@ -1,0 +1,3 @@
+2007-04-16 dxpcom-0.1 released.
+	Finished mozilla.xpcom package.
+	You can call XPCOM components and write XPCOM in D with C++ style.

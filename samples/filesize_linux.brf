@@ -1,0 +1,6 @@
+filesize.d
+-op
+-L-lxpcom
+-LIBPATH=/home/lijie/xulrunner
+-cleanup
+-I../src

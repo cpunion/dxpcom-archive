@@ -1,0 +1,7 @@
+xml.d
+-op
+-I../src
+-cleanup
+-L-lxpcom
+-L-L/home/lijie/xulrunner
+-T/home/lijie/xulrunner/xml

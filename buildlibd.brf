@@ -1,0 +1,7 @@
+src/mozilla/alld.d
+-op
+-Isrc
+-lib
+-cleanup
+-Tlib/dxpcomd.lib
+-allobj
